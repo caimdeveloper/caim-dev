@@ -20,7 +20,16 @@
 
 - **Cargo System** — Telegram bot + Admin panel for logistics (tracking, payments, CRM)  
 - **caim.dev** — International portfolio website  
-- **80+ Projects** — Corporate websites, CRMs, automation systems, bots  
+- **80+ Projects** — Corporate websites, CRMs, automation systems, bots
+
+---
+
+## 📂 Featured
+
+- [Cargo System](projects/cargo-system/README.md) — Telegram bot + Admin panel for logistics
+- [Flutter Shop](projects/flutter-shop/README.md) — Mobile store app prototype (Flutter)
+- [caim.dev Website](projects/caim-website/README.md) — Portfolio and brand site
+
 
 ---
 

@@ -1,63 +1,75 @@
 # 👋 Welcome to caim.dev | Muratbek Omurzakov
+## Senior-Focused Full-stack Engineer & System Architect
 
-🚀 **Middle Full-stack & Mobile Engineer** | **Security-First Developer**
-[cite_start]💼 4+ года коммерческого опыта [cite: 9, 85] | [cite_start]80+ успешно реализованных проектов [cite: 54, 203]
-[cite_start]🛠️ Специализируюсь на создании сложных экосистем: от высоконагруженных бэкендов до кроссплатформенных мобильных приложений[cite: 107, 203].
-
----
-
-## 🛠 Tech Stack & Expertise
-
-### **Core Development**
-* [cite_start]**Backend:** Node.js (Express/Nest), PHP (Native & Frameworks)[cite: 108, 195].
-* [cite_start]**Mobile:** Flutter (Dart) — экспертный уровень [cite: 111, 195][cite_start], iOS (Swift) — нативная разработка[cite: 196, 203].
-* [cite_start]**Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, Vite[cite: 27, 96, 196].
-* [cite_start]**Real-time:** WebSocket (Socket.io) для систем мониторинга и чатов[cite: 195, 203].
-
-### **Data & Infrastructure**
-* [cite_start]**Databases:** PostgreSQL, MySQL, MS SQL (проектирование и оптимизация сложных структур)[cite: 108, 160, 195].
-* [cite_start]**DevOps:** Администрирование Linux (Ubuntu 24.04), настройка серверов на Hetzner (CX43), CI/CD basics[cite: 109, 197, 205].
-* [cite_start]**Panels:** HestiaCP, aaPanel[cite: 110, 197].
-
-### **Security Mindset**
-* Проектирование систем с защитой от утечек данных.
-* Архитектура авторизации на основе безопасных сессий и контроль доступа.
-* [cite_start]Опыт администрирования баз данных в чувствительных отраслях (Halal Industry)[cite: 50, 158].
+🚀 **Expertise:** High-performance Backends, Scalable Mobile Ecosystems, and CyberSecurity.
+💼 **Experience:** 4.8+ years of commercial development | 80+ delivered projects.
+🛠️ **Specialization:** Building complex ERP/CRM systems from scratch to production-ready deployment.
 
 ---
 
-## 📂 Featured Case Studies
-
-### 🚛 **Logistics & Cargo ERP System**
-[cite_start]*Комплексное решение для мониторинга грузов[cite: 107, 208].*
-* [cite_start]**Backend:** Node.js + PostgreSQL[cite: 108].
-* [cite_start]**Features:** Трекинг в реальном времени через WebSockets, личные кабинеты, автоматизация через Telegram Bot API[cite: 203, 208, 209].
-* [cite_start]**Impact:** Полная автоматизация учета и логистики для карго-компаний[cite: 208].
-
-### 🚖 **Taxi Service Backend**
-*Высоконагруженная серверная часть для агрегатора такси.*
-* [cite_start]**Infrastructure:** Деплой и поддержка на выделенных мощностях Hetzner (CX43)[cite: 203, 205].
-* **Logic:** Сложные алгоритмы расчета стоимости и управления очередями заказов.
-
-### 🎓 **Education & Mentorship**
-* [cite_start]Подготовил более 100 студентов в **Jarat.co** и **LL Academy**[cite: 97, 148, 182].
-* [cite_start]Автор методик ускоренного освоения JavaScript и React[cite: 98, 151].
+## 🛡️ Security & Architecture Mindset (Top Priority)
+*В отличие от обычных разработчиков, я проектирую системы, исходя из принципов безопасности и отказоустойчивости:*
+- **Data Protection:** Внедрение механизмов предотвращения SQL-инъекций, XSS и CSRF атак на уровне архитектуры.
+- **Session Management:** Использование защищенных сессий с коротким TTL вместо стандартных JWT для критически важных систем (возможность мгновенного отзыва доступа).
+- **Hardening:** Настройка и защита серверов (Ubuntu Hardening), изоляция окружений, работа с защищенными протоколами передачи данных.
 
 ---
 
-## 📊 GitHub Stats & Open Source
-*Большинство моих коммерческих проектов находятся под строгим **NDA**. Однако здесь вы можете найти мои архитектурные паттерны и Boilerplates для быстрой разработки.*
+## 🛠 Detailed Tech Stack
 
-* 🛠 [React-Vite-Tailwind Admin Template] — Мой эталонный каркас для админ-панелей.
-* 📱 [Flutter Clean Architecture] — Пример структуры мобильного приложения.
+### **Backend & Real-time Services**
+- **Runtime:** Node.js (Express, NestJS), Native PHP.
+- **Real-time:** WebSockets (Socket.io) для систем с мгновенным откликом (Taxi, Tracking).
+- **API Design:** RESTful API, интеграция сторонних сервисов (Payment Gateways, Maps, SMS-gateways).
+
+### **Mobile Development**
+- **Flutter (Expert):** Создание кроссплатформенных приложений со сложной бизнес-логикой и кастомными UI-библиотеками.
+- **iOS (Swift):** Нативная разработка с глубоким пониманием жизненного цикла приложений и управления памятью.
+
+### **Database Management**
+- **Engines:** PostgreSQL, MySQL, Microsoft SQL Server.
+- **Expertise:** Проектирование нормализованных схем данных, оптимизация медленных запросов, индексация, администрирование БД в Halal Industry.
+
+### **Infrastructure & DevOps**
+- **Servers:** Управление парком серверов на **Hetzner (CX43)**.
+- **Environment:** Linux (Ubuntu 24.04), Docker basics.
+- **Automation:** Настройка CI/CD процессов, работа с HestiaCP, aaPanel, DNS, SSL-сертификаты.
 
 ---
 
-## 🌍 Connect With Me
-* [cite_start]🌐 **Official Website:** [caim.dev](https://caim.dev) [cite: 2, 73]
-* [cite_start]📧 **Email:** [developercaim@gmail.com](mailto:developercaim@gmail.com) [cite: 3, 70]
-* [cite_start]💬 **Telegram:** [@caimdev](https://t.me/caimdev) [cite: 36, 71]
-* [cite_start]💼 **LinkedIn:** [Muratbek Omurzakov](https://linkedin.com/in/caimdev) [cite: 39]
+## 📂 Deep-Dive Case Studies
+
+### 🚛 **Logistics ERP "Cargo System"**
+*Экосистема для автоматизации логистических потоков между странами.*
+- **Technology:** Node.js, PostgreSQL, WebSockets.
+- **Solution:** Разработан бэкенд для трекинга грузов в реальном времени, многоуровневая панель управления (Admin/Manager/Client) и Telegram-интеграция для уведомлений.
+- **Result:** Сокращение операционных издержек клиента на 40% за счет автоматизации учета.
+
+### 🚖 **Taxi Aggregator Backend**
+*Серверная часть для высоконагруженного сервиса заказа такси.*
+- **Technology:** Node.js, Socket.io, Redis (cache).
+- **Challenge:** Обработка сотен одновременных запросов на расчет стоимости с учетом геопозиции.
+- **Infrastructure:** Отказоустойчивый деплой на мощностях Hetzner с мониторингом нагрузки.
+
+### 🎓 **IT Mentorship & Leadership**
+- **Experience:** Преподаватель веб-разработки в **Salymbekov University**.
+- **Impact:** Подготовил более 100 специалистов, которые сейчас работают в индустрии. Разработал авторский курс "Full-stack с нуля до Junior+".
 
 ---
-> *Code is not just about functionality; it's about reliability and security. Built with precision by caim.dev.*
+
+## 📊 Commercial Projects & NDA
+*Большинство моих работ (финтех, логистика) защищены **NDA**. Я не могу публиковать их исходный код, но готов обсудить архитектурные решения в рамках интервью.*
+
+- 🏗️ **Admin Dashboard Boilerplate:** [React + Vite + Tailwind + Zod Validation] (Coming Soon)
+- 🏗️ **Flutter Mobile Template:** [Clean Architecture + BLoC/Riverpod] (Coming Soon)
+
+---
+
+## 🌍 Get In Touch
+- 🌐 **Portfolio:** [caim.dev](https://caim.dev)
+- 📧 **Direct Mail:** [developercaim@gmail.com](mailto:developercaim@gmail.com)
+- 💬 **Telegram:** [@caimdev](https://t.me/caimdev)
+- 💼 **LinkedIn:** [Muratbek Omurzakov](https://linkedin.com/in/caimdev)
+
+---
+> "Quality means doing it right when no one is looking." — **caim.dev**

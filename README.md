@@ -64,6 +64,12 @@
 * **OS:** Linux (Ubuntu 24.04) — Hardening, настройка безопасности и оптимизация.
 * **Automation:** Настройка CI/CD процессов, работа с HestiaCP, aaPanel, управление DNS и SSL.
 
+* ### **DevOps & Infrastructure (Automation & Security)**
+
+* **CI/CD Pipeline Architecture:** Проектирование и внедрение кастомных Workflow в **GitHub Actions**. Автоматизация полного цикла деплоя (триггеры на Push в main, SSH-авторизация, сборка фронтенда на **Vite**, автоматическая установка зависимостей и оркестрация процессов через **PM2**).
+* **Hardware & OS:** Полное администрирование выделенных серверов **Hetzner CX43**. Linux (Ubuntu 24.04) — Hardening, настройка безопасности и оптимизация.
+* **Automation & Tools:** Работа с HestiaCP, aaPanel, управление DNS и автоматизация SSL.
+
 ---
 
 ## 📂 Featured Case Studies
